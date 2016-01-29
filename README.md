@@ -9,6 +9,7 @@ If you don't know where to start, try [CS229 - Machine Learning](https://see.sta
 * [CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 * [Oxford's Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+* [NYU's Deep Learning](http://cilvr.nyu.edu/doku.php?id=deeplearning:slides:start)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
