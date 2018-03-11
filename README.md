@@ -12,6 +12,10 @@ If you don't know where to start, try [CS229 - Machine Learning](https://see.sta
 * [NYU's Deep Learning](http://cilvr.nyu.edu/doku.php?id=deeplearning:slides:start)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+* [Cambridge Information Theory, Pattern Recognition, and Neural Networks](http://www.inference.org.uk/itprnn_lectures/)
+* [MIT Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall15/index.html)
+* [CMU Statistical Machine Learning](http://www.mit.edu/~9.520/fall15/index.html)
+* [CMU Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
 
 ## Books
 
